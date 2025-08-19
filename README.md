@@ -70,7 +70,7 @@ streamlit run app.py
 
 ## 🛠️ Tech Stack
 
--   **Python 3.9+**
+-   **Python 3.13.5**
 -   **Streamlit** --- UI framework\
 -   **Ollama (Llama 3.2:1b)** --- AI model for weather narration\
 -   **OpenWeather API** --- Real-time weather data\
